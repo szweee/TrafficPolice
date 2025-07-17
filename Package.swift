@@ -28,7 +28,7 @@ let package = Package(
         .target(
             name: "TrafficPolice",
             dependencies: [],
-            path: "TrafficPolice/Source"
+            path: "Source"
         ),
         .testTarget(
             name: "TrafficPoliceTests",
